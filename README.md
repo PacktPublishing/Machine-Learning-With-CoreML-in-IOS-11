@@ -45,4 +45,4 @@ This course has the following software requirements:<br/>
 
 * [iOS Augmented Reality with ARKit [Video]](https://www.packtpub.com/web-development/ios-augmented-reality-arkit-video)
 
-* [IBM Cognos Report Studio [Video]] (https://www.packtpub.com/big-data-and-business-intelligence/ibm-cognos-report-studio-video)
+* [IBM Cognos Report Studio [Video]](https://www.packtpub.com/big-data-and-business-intelligence/ibm-cognos-report-studio-video)
